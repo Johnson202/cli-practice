@@ -56,4 +56,4 @@ In this exercise you will practice creating files and directories and deleting t
 1. From within the cli, view the contents of the file you just created (`head`, `tail`, `less`)
 1. Navigate one level up from the `test` directory to it's parent directory
 1. Delete the `test` directory (it contains files now, so you might need to add an option to `rm`!)
-   At this last step, would execute "rm -r test" in parent directory to remove the test directory/folder.
+   **At this last step, would execute "rm -r test" in parent directory to remove the test directory/folder.**
